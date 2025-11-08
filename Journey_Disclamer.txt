@@ -2,7 +2,7 @@
 
 Welcome to my **Data Science Portfolio Repository**!  
 I’m an **aspiring Data Science student** passionate about understanding data, finding insights, and applying machine learning to solve real-world problems.  
-This space highlights my journey — from learning fundamentals to creating analytical and AI-driven projects.
+This highlights my journey — from learning fundamentals to creating analytical and AI-driven projects.
 
 ---
 
