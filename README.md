@@ -1,35 +1,30 @@
-# 🎯 Snehanshu - Aspiring Data Science Student
+# 🚀 Data Science Project
 
-Welcome to my **Data Science Portfolio Repository**!  
-I’m an **aspiring Data Science student** passionate about understanding data, finding insights, and applying machine learning to solve real-world problems.  
-This highlights my journey — from learning fundamentals to creating analytical and AI-driven projects.
-
----
-
-## 🧠 About Me
-Hi, I'm **Snehanshu**, currently pursuing **Computer Science (AI & ML specialization)**.  
-I’m exploring the world of **Data Science, Data Analytics, and Artificial Intelligence** with a goal to make data more meaningful and actionable.
-
-💡 **Current Focus Areas:**
-- Python for Data Analysis & Machine Learning  
-- Statistics, Probability & Linear Algebra  
-- Data Visualization using Matplotlib, Seaborn & Power BI  
-- SQL for Data Handling  
-- Machine Learning Algorithms (Regression, Classification, Clustering)
+Welcome to my Data Science project!  
+This repository showcases my learning, experiments, and implementations across various Data Science domains — from exploratory data analysis (EDA) to machine learning and AI-based predictions.
 
 ---
 
-## 🧰 Tools & Technologies
-| Category | Tools / Languages |
-|-----------|-------------------|
-| Programming | Python, SQL, Java (Basics) |
-| Libraries | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn |
-| Visualization | Power BI, Tableau, Plotly |
-| Database | MySQL, SQLite |
-| Development | Jupyter Notebook, Git, GitHub |
+## 📌 Project Overview
+This project focuses on applying Data Science techniques to extract insights, visualize data, and build predictive models.  
+It’s part of my journey toward becoming a professional **Data Scientist**.
 
 ---
 
-## 📂 Repository Structure
-This repository serves as a collection of my learnings, experiments, and projects.
+## 🧩 Features
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning model development  
+- Model evaluation and optimization  
+- Visualization using Matplotlib & Seaborn  
 
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Tools:** Jupyter Notebook, VS Code, GitHub  
+
+---
+
+## 📂 Project Structure
