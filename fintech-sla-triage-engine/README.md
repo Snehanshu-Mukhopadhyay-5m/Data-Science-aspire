@@ -40,7 +40,7 @@ graph TD
     G --> H["POST /predict<br>Calibrated Risk + Routing + Top-3 TreeSHAP"]:::api
     G --> I["GET /drift<br>PSI KL-Divergence on 160 Right-Censored Tickets"]:::drift
 
-
+```text
  fintech-sla-triage-engine/
 ├── api/
 │   ├── __init__.py
