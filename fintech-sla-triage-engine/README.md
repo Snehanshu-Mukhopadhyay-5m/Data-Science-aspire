@@ -41,7 +41,7 @@ graph TD
     G --> I["GET /drift<br>PSI KL-Divergence on 160 Right-Censored Tickets"]:::drift
 
 
-    fintech-sla-triage-engine/
+ fintech-sla-triage-engine/
 ├── api/
 │   ├── __init__.py
 │   └── main.py                 # FastAPI microservice (lifespan loading, /predict, /drift)
